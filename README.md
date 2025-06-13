@@ -17,12 +17,6 @@ This is a lightweight Python backend for a simple shopping app. It supports user
 - Python 3.x
 - Libraries: `json`, `os`
 
-Install dependencies (if any):
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Features 🎉
 
 - **User Login**: Users can securely log in with their credentials.
@@ -41,6 +35,12 @@ pip install -r requirements.txt
    ```
 
 2. Install required dependencies.
+
+   ```bash
+   python3 -m venv .venv
+   source .venv/bin/activate
+   pip install -r requirements.txt
+   ```
 
 3. Run the application:
 
