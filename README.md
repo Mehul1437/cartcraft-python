@@ -4,13 +4,13 @@ This is a lightweight Python backend for a simple shopping app. It supports user
 
 ## Project Files 🗂️
 
-- **[`admin.py`](https://github.com/Mehul1437/cartcraft-python/admin.py)**: Handles admin login and product management.
-- **[`cart.py`](https://github.com/Mehul1437/cartcraft-python/cart.py)**: Manages the shopping cart (add, remove, view items).
-- **[`catalog.py`](https://github.com/Mehul1437/cartcraft-python/catalog.py)**: View and add products to the catalog.
-- **[`login.py`](https://github.com/Mehul1437/cartcraft-python/login.py)**: Validates user and admin login credentials.
-- **[`main.py`](https://github.com/Mehul1437/cartcraft-python/main.py)**: The entry point of the app that connects all components.
-- **[`payment.py`](https://github.com/Mehul1437/cartcraft-python/payment.py)**: Simulates the payment process.
-- **[`utils/db_mock.py`](https://github.com/Mehul1437/cartcraft-python/utils/db_mock.py)**: Handles loading and saving of mock data (users, admins, products).
+- **[`admin.py`](https://github.com/Mehul1437/cartcraft-python/blob/main/admin.py)**: Handles admin login and product management.
+- **[`cart.py`](https://github.com/Mehul1437/cartcraft-python/blob/main/cart.py)**: Manages the shopping cart (add, remove, view items).
+- **[`catalog.py`](https://github.com/Mehul1437/cartcraft-python/blob/main/catalog.py)**: View and add products to the catalog.
+- **[`login.py`](https://github.com/Mehul1437/cartcraft-python/blob/main/login.py)**: Validates user and admin login credentials.
+- **[`main.py`](https://github.com/Mehul1437/cartcraft-python/blob/main/main.py)**: The entry point of the app that connects all components.
+- **[`payment.py`](https://github.com/Mehul1437/cartcraft-python/blob/main/payment.py)**: Simulates the payment process.
+- **[`utils/db_mock.py`](https://github.com/Mehul1437/cartcraft-python/blob/main/utils/db_mock.py)**: Handles loading and saving of mock data (users, admins, products).
 
 ## Requirements ⚙️
 
@@ -55,3 +55,11 @@ pip install -r requirements.txt
 - **Users**: Data stored in `users_data.json`.
 - **Admins**: Data stored in `admins_data.json`.
 - **Products**: Data stored in `products_data.json`.
+
+## 🤝 Contributing
+
+We welcome contributions from developers, designers, and socially-conscious technologists. Please open an issue or submit a pull request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
