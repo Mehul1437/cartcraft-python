@@ -1,0 +1,69 @@
+==============================
+    Project File Overview
+==============================
+
+This directory contains the backend files for the shopping application.
+Below is a categorized breakdown of each file and its purpose.
+
+------------------------------
+Core Application Modules
+------------------------------
+- admin.py
+    Manages admin login and admin-specific actions like product/user management.
+
+- cart.py
+    Handles shopping cart operations: add, remove, and view items.
+
+- catalog.py
+    Manages the product catalog: view, add, and remove products.
+
+- login.py
+    Implements login logic for users and admins.
+
+- main.py
+    Main entry point to run the CLI-based shopping application.
+
+- payment.py
+    Simulates payment processing (UPI, Debit Card).
+
+------------------------------
+Mock Data Files
+------------------------------
+- products_data.json
+    Contains product catalog mock data.
+
+- users_data.json
+    Stores user login credentials.
+
+- admins_data.json
+    Stores admin login credentials.
+
+------------------------------
+Utility and Support Files
+------------------------------
+- utils/db_mock.py
+    Provides helper functions to load/save mock data (users, admins, products).
+
+- utils/file_overview.txt
+    This file — a text-based overview of all project files.
+
+------------------------------
+Other Directories and Files
+------------------------------
+- __pycache__/
+    Auto-generated Python bytecode files (can be ignored).
+
+- venv/
+    Virtual environment for project dependencies.
+
+------------------------------
+Documentation
+------------------------------
+- README.md
+    Project documentation: setup instructions, usage, and features.
+
+------------------------------
+Miscellaneous
+------------------------------
+- STmain.py
+    Alternate main file, likely for a Streamlit-based interface.

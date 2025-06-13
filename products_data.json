@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop (Dell)",
+        "category": "Electronic",
+        "price": 38000.0
+    },
+    {
+        "id": 2,
+        "name": "mouse",
+        "category": "Electronic",
+        "price": 250.0
+    },
+    {
+        "id": 3,
+        "name": "Macbook",
+        "category": "Electronic",
+        "price": 45000.0
+    },
+    {
+        "id": 5,
+        "name": "Tomato",
+        "category": "Vegetable",
+        "price": 40.0
+    },
+    {
+        "id": 6,
+        "name": "Potato",
+        "category": "Vegetable",
+        "price": 10.0
+    }
+]
