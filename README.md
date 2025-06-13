@@ -36,7 +36,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Mehul1437/shop-backend.git
+   git clone https://github.com/Mehul1437/cartcraft-python.git
    cd shopping-app-backend
    ```
 
