@@ -1,4 +1,4 @@
-# 🛍️ CartcraftPython – Shopping App Backend
+# 🛍️ Cartcraft – Python Shopping App Backend
 
 This is a lightweight Python backend for a simple shopping app. It supports user and admin authentication, product catalog management, shopping cart functionality, and simulates a basic payment process. 😊
 
